@@ -1,0 +1,26 @@
+/* Fichier CSS de base */
+
+/* Style pour le corps de la page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style pour l'en-tête (h1) */
+h1 {
+    color: #333;
+    background-color: #ffc;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style pour les paragraphes (p) */
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+    background-color: #fff;
+}
